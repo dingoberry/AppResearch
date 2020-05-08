@@ -1,0 +1,47 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+
+# Android generated
+bin/
+gen/
+app/*.*
+!app/lint.xml
+
+# Maven
+target/
+pom.xml.*
+release.properties
+
+# Android Studio/IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Mac
+.DS_Store
+
+# Ignore gradle files
+.gradle/
+build/
+product*/
+
+local.properties
+*.jks
+
+/.gitmodules
+local/*.*
